@@ -1,6 +1,6 @@
 # See  Yourself  in  Others:Attending  Multiple  Tasks  for  Own  Failure  Detection
 
-This repository contains the implementation from the paper **See  Yourself  in  Others: Attending  Multiple  Tasks  for  Own  Failure  Detection**, ICRA 2022 [arXiv](https://arxiv.org/abs/1809.08564).
+This repository contains the implementation from the paper **See  Yourself  in  Others: Attending  Multiple  Tasks  for  Own  Failure  Detection**, ICRA 2022 [arXiv](https://arxiv.org/abs/2110.02549).
 
 
 If you use this work, please cite the following as appropriate:
